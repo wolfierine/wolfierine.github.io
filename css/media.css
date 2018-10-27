@@ -39,6 +39,10 @@
 	.contact-form{
 		width: 70%;
 	}
+	.slider-buttons{
+		bottom: 20px;
+		flex-direction: column;
+	}
 }
 
 @media screen and (min-width: 1000px){
