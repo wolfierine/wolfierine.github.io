@@ -211,6 +211,8 @@
 	}
     #features .features-list li::before{
     	background-image: url("../images/icon.svg");
+	background-size: contain;
+	background-repeat: no-repeat;
     	border-radius: unset;
     	border: none;
     	background-color: unset;
